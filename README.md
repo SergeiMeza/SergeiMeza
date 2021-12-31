@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergei Meza</h1>
 <h3 align="center">Tech Lead at CChannel and an advocate for Free Open Source Software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeimeza&label=Profile%20views&color=0e75b6&style=flat" alt="sergeimeza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeimeza&label=Profile%20views&color=brightgreen&style=flat" alt="sergeimeza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeimeza" alt="sergeimeza" /></a> </p>
 
