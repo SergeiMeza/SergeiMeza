@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeimeza" alt="sergeimeza" /></a> </p>
 
-Sergi_Meza
 <p align="left"> <a href="https://twitter.com/Sergi_Meza" target="blank"><img src="https://img.shields.io/twitter/follow/Sergi_Meza?logo=twitter&style=for-the-badge" alt="Sergi_Meza" /></a> </p>
 
 - 🔭 I’m currently working at [CChannel](https://github.com/CChannel)
