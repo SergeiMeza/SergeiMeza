@@ -20,7 +20,7 @@
 <a href="https://twitter.com/Sergi_Meza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sergi_Meza" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeimeza&count_private=true&show_icons=true&locale=en" alt="sergeimeza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeimeza&count_private=true&show_icons=true&theme=algolia" alt="sergeimeza" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
