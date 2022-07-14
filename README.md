@@ -22,6 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeimeza&count_private=true&show_icons=true&theme=algolia" alt="sergeimeza" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeimeza&layout=compact&theme=algolia" alt="Sergei's Top Languages" /></p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
