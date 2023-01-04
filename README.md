@@ -22,8 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeimeza&count_private=true&show_icons=true&theme=algolia" alt="Sergei Meza's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeimeza&layout=compact&theme=algolia" alt="Sergei Meza's Top Languages" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeimeza&hide=objective-c,html,ruby,shell,css,dockerfile,makefile&theme=algolia" alt="Sergei Meza's Top Languages" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
